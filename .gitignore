@@ -1,0 +1,16 @@
+node_modules/
+.cache/
+.remotion/
+out/
+stills/
+*.log
+# media and transcripts stay local: raw footage, renders, and the speech of the people on camera
+*.mp4
+*.mov
+*.MOV
+*.MP4
+*.wav
+*.png
+*.jpg
+navai.json
+.env

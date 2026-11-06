@@ -1,0 +1,19 @@
+{
+  "name": "03-neyro-neon",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.484",
+    "@remotion/media": "4.0.484",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "remotion": "4.0.484"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "typescript": "^5.3.0"
+  }
+}
